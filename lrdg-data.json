@@ -1798,5 +1798,19 @@
         "filePath": "/home/creeper/lrdg/OST LRDG/Friday Night Funkin' - Release.mp3",
         "isBest": false,
         "pic": "https://cdn.discordapp.com/attachments/505784854017736705/839917223261765672/FNF.png"
+    },
+    {
+        "name": "Super Mario Galaxy 2 - Overture",
+        "fileName": "Super Mario Galaxy 2 - Overture.mp3",
+        "filePath": "/home/creeper/lrdg/OST LRDG/Super Mario Galaxy 2 - Overture.mp3",
+        "isBest": false,
+        "pic": "https://media.discordapp.net/attachments/505784854017736705/829424071539425370/SMG2.png"
+    },
+    {
+        "name": "Trackmania - Opening Ceremony",
+        "fileName": "Trackmania - Opening Ceremony.mp3",
+        "filePath": "/home/creeper/lrdg/OST LRDG/Trackmania - Opening Ceremony.mp3",
+        "isBest": false,
+        "pic": "https://media.discordapp.net/attachments/505784854017736705/853278839299112970/TM.webp"
     }
 ]
