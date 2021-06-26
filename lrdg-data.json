@@ -1813,5 +1813,26 @@
         "filePath": "/home/creeper/lrdg/OST LRDG/Trackmania - Opening Ceremony.mp3",
         "isBest": false,
         "pic": "https://media.discordapp.net/attachments/505784854017736705/853278839299112970/TM.webp"
+    },
+    {
+        "name": "Friday Night Funkin' - Tabi Genocide [Tenzu]",
+        "fileName": "Friday Night Funkin' - Tabi Genocide [Tenzu].mp3",
+        "filePath": "/home/creeper/lrdg/OST LRDG/Friday Night Funkin' - Tabi Genocide [Tenzu].mp3",
+        "isBest": false,
+        "pic": "https://media.discordapp.net/attachments/505784854017736705/839917223261765672/FNF.png"
+    },
+    {
+        "name": "World's End Club - Go-Getters Club Theme (Dedicated to Reycho, version japonaise)",
+        "fileName": "World's End Club - Go-Getters Club Theme (Dedicated to Reycho, version japonaise).mp3",
+        "filePath": "/home/creeper/lrdg/OST LRDG/World's End Club - Go-Getters Club Theme (Dedicated to Reycho, version japonaise).mp3",
+        "isBest": false,
+        "pic": "https://media.discordapp.net/attachments/505784854017736705/858270830823079936/WEC.png"
+    },
+    {
+        "name": "World's End Club - Let's go to Tokyo!",
+        "fileName": "World's End Club - Let's go to Tokyo!.mp3",
+        "filePath": "/home/creeper/lrdg/OST LRDG/World's End Club - Let's go to Tokyo!.mp3",
+        "isBest": false,
+        "pic": "https://media.discordapp.net/attachments/505784854017736705/858270830823079936/WEC.png"
     }
 ]
