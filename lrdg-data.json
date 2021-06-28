@@ -1834,5 +1834,33 @@
         "filePath": "/home/creeper/lrdg/OST LRDG/World's End Club - Let's go to Tokyo!.mp3",
         "isBest": false,
         "pic": "https://media.discordapp.net/attachments/505784854017736705/858270830823079936/WEC.png"
+    },
+    {
+        "name": "Doki Doki Literature Club! Monika After Story - Main Theme",
+        "fileName": "Doki Doki Literature Club! Monika After Story - Main Theme.mp3",
+        "filePath": "/home/creeper/lrdg/OST LRDG/Doki Doki Literature Club! Monika After Story - Main Theme.mp3",
+        "isBest": false,
+        "pic": "https://media.discordapp.net/attachments/505784854017736705/829417980797911130/DDLC.png"
+    },
+    {
+        "name": "Doki Doki Literature Club! Monika After Story - My Reality (80s Remix)",
+        "fileName": "Doki Doki Literature Club! Monika After Story - My Reality (80s Remix).mp3",
+        "filePath": "/home/creeper/lrdg/OST LRDG/Doki Doki Literature Club! Monika After Story - My Reality (80s Remix).mp3",
+        "isBest": false,
+        "pic": "https://media.discordapp.net/attachments/505784854017736705/829417980797911130/DDLC.png"
+    },
+    {
+        "name": "Ijiranaide, Nagatoro-san - Ending",
+        "fileName": "Ijiranaide, Nagatoro-san - Ending.mp3",
+        "filePath": "/home/creeper/lrdg/OST LRDG/Ijiranaide, Nagatoro-san - Ending.mp3",
+        "isBest": false,
+        "pic": "https://media.discordapp.net/attachments/505784854017736705/839917854525489163/Nagatoro.png"
+    },
+    {
+        "name": "Pokémon Noir 2 & Blanc 2 - Humilau City",
+        "fileName": "Pokémon Noir 2 & Blanc 2 - Humilau City.mp3",
+        "filePath": "/home/creeper/lrdg/OST LRDG/Pokémon Noir 2 & Blanc 2 - Humilau City.mp3",
+        "isBest": false,
+        "pic": "https://media.discordapp.net/attachments/505784854017736705/829423468009226301/Pokemon_NB.png"
     }
 ]
