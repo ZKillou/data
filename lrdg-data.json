@@ -420,6 +420,13 @@
         "fileDuration": 105.16898
     },
     {
+        "name": "Geometry Dash - Stereo Madness",
+        "fileName": "Geometry Dash - Stereo Madness.mp3",
+        "isBest": false,
+        "pic": "https://cdn.discordapp.com/attachments/505784854017736705/829423021588611092/Geometry_Dash.png",
+        "fileDuration": 198.217143
+    },
+    {
         "name": "Ijiranaide, Nagatoro-san - Ending",
         "fileName": "Ijiranaide, Nagatoro-san - Ending.mp3",
         "isBest": false,
@@ -582,6 +589,13 @@
         "fileDuration": 262.243265
     },
     {
+        "name": "Mario Kart DS - Title Screen",
+        "fileName": "Mario Kart DS - Title Screen.mp3",
+        "isBest": false,
+        "pic": "https://cdn.discordapp.com/attachments/505784854017736705/829423247921119232/Mario_Kart_DS.png",
+        "fileDuration": 150.204082
+    },
+    {
         "name": "Mario Kart DS - Waluigi Pinball",
         "fileName": "Mario Kart DS - Waluigi Pinball.mp3",
         "isBest": true,
@@ -622,6 +636,13 @@
         "isBest": true,
         "pic": "https://cdn.discordapp.com/attachments/505784854017736705/829423246994571334/Mario_Paint.png",
         "fileDuration": 126.302041
+    },
+    {
+        "name": "Milkman Karlson - Karlson Vibe",
+        "fileName": "Milkman Karlson - Karlson Vibe.mp3",
+        "isBest": false,
+        "pic": "https://cdn.discordapp.com/attachments/505784854017736705/859171014285721660/MilkmanKarlson.png",
+        "fileDuration": 226.977959
     },
     {
         "name": "Minecraft - Moog City 2",
