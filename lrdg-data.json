@@ -1862,5 +1862,33 @@
         "filePath": "/home/creeper/lrdg/OST LRDG/Pokémon Noir 2 & Blanc 2 - Humilau City.mp3",
         "isBest": false,
         "pic": "https://media.discordapp.net/attachments/505784854017736705/829423468009226301/Pokemon_NB.png"
+    },
+    {
+        "name": "Friday Night Funkin - Beyond the Stars",
+        "fileName": "Friday Night Funkin - Beyond the Stars.mp3",
+        "filePath": "/home/creeper/lrdg/OST LRDG/Friday Night Funkin - Beyond the Stars.mp3",
+        "isBest": false,
+        "pic": "https://media.discordapp.net/attachments/505784854017736705/839917223261765672/FNF.png"
+    },
+    {
+        "name": "Friday Night Funkin' - A.G.O.T.I",
+        "fileName": "Friday Night Funkin' - A.G.O.T.I.mp3",
+        "filePath": "/home/creeper/lrdg/OST LRDG/Friday Night Funkin' - A.G.O.T.I.mp3",
+        "isBest": false,
+        "pic": "https://media.discordapp.net/attachments/505784854017736705/839917223261765672/FNF.png"
+    },
+    {
+        "name": "Friday Night Funkin' - Casanova",
+        "fileName": "Friday Night Funkin' - Casanova.mp3",
+        "filePath": "/home/creeper/lrdg/OST LRDG/Friday Night Funkin' - Casanova.mp3",
+        "isBest": false,
+        "pic": "https://media.discordapp.net/attachments/505784854017736705/839917223261765672/FNF.png"
+    },
+    {
+        "name": "Roblox - Roblox Theme Song (2006)",
+        "fileName": "Roblox - Roblox Theme Song (2006).mp3",
+        "filePath": "/home/creeper/lrdg/OST LRDG/Roblox - Roblox Theme Song (2006).mp3",
+        "isBest": false,
+        "pic": "https://media.discordapp.net/attachments/505784854017736705/829423860406681610/Roblox.png"
     }
 ]
