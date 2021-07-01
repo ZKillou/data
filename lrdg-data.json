@@ -392,6 +392,13 @@
         "fileDuration": 145.684898
     },
     {
+        "name": "Friday Night Funkin' - Your Demise",
+        "fileName": "Friday Night Funkin' - Your Demise.mp3",
+        "isBest": false,
+        "pic": "https://cdn.discordapp.com/attachments/505784854017736705/839917223261765672/FNF.png",
+        "fileDuration": 85.133061
+    },
+    {
         "name": "Friday Night Funkin' x Super Smash Bros Ultimate - Ugh",
         "fileName": "Friday Night Funkin' x Super Smash Bros Ultimate - Ugh.mp3",
         "isBest": false,
@@ -923,6 +930,13 @@
         "isBest": true,
         "pic": "https://cdn.discordapp.com/attachments/505784854017736705/829423860142702602/PWAA.png",
         "fileDuration": 110.706939
+    },
+    {
+        "name": "Pokémon - Always been a friend Bidoof",
+        "fileName": "Pokémon - Always been a friend Bidoof.mp3",
+        "isBest": false,
+        "pic": "https://cdn.discordapp.com/attachments/505784854017736705/860259803557003274/Pokemon.png",
+        "fileDuration": 99.265306
     },
     {
         "name": "Pokémon Clover - Darude Sandstorm (Gym Leader Theme)",
@@ -1609,6 +1623,13 @@
         "isBest": true,
         "pic": "https://cdn.discordapp.com/attachments/505784854017736705/829429924355244162/SSBU.png",
         "fileDuration": 315.611429
+    },
+    {
+        "name": "Terraria - Day",
+        "fileName": "Terraria - Day.mp3",
+        "isBest": false,
+        "pic": "https://cdn.discordapp.com/attachments/505784854017736705/860259803318583317/Terraria.png",
+        "fileDuration": 137.586939
     },
     {
         "name": "Tetris - Main Theme",
