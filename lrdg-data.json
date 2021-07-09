@@ -371,18 +371,18 @@
         "fileDuration": 89.469388
     },
     {
-        "name": "Friday Night Funkin - Beyond the Stars",
-        "fileName": "Friday Night Funkin - Beyond the Stars.mp3",
-        "isBest": false,
-        "pic": "https://cdn.discordapp.com/attachments/505784854017736705/839917223261765672/FNF.png",
-        "fileDuration": 92.682449
-    },
-    {
         "name": "Friday Night Funkin' - A.G.O.T.I",
         "fileName": "Friday Night Funkin' - A.G.O.T.I.mp3",
         "isBest": false,
         "pic": "https://cdn.discordapp.com/attachments/505784854017736705/839917223261765672/FNF.png",
         "fileDuration": 104.124082
+    },
+    {
+        "name": "Friday Night Funkin' - Beyond the Stars",
+        "fileName": "Friday Night Funkin' - Beyond the Stars.mp3",
+        "isBest": false,
+        "pic": "https://cdn.discordapp.com/attachments/505784854017736705/839917223261765672/FNF.png",
+        "fileDuration": 92.682449
     },
     {
         "name": "Friday Night Funkin' - Casanova",
@@ -413,8 +413,8 @@
         "fileDuration": 118.204082
     },
     {
-        "name": "Friday Night Funkin' - Tabi Genocide [Tenzu]",
-        "fileName": "Friday Night Funkin' - Tabi Genocide [Tenzu].mp3",
+        "name": "Friday Night Funkin' - Tabi Genocide",
+        "fileName": "Friday Night Funkin' - Tabi Genocide.mp3",
         "isBest": false,
         "pic": "https://cdn.discordapp.com/attachments/505784854017736705/839917223261765672/FNF.png",
         "fileDuration": 145.684898
@@ -1317,8 +1317,8 @@
         "fileDuration": 213.211429
     },
     {
-        "name": "Scarlet Nexus - District Mission",
-        "fileName": "Scarlet Nexus - District Mission.mp3",
+        "name": "Scarlet Nexus - District Mission [Kasane]",
+        "fileName": "Scarlet Nexus - District Mission [Kasane].mp3",
         "isBest": false,
         "pic": "https://cdn.discordapp.com/attachments/505784854017736705/859477692369731604/Scarlet_Nexus.png",
         "fileDuration": 203.964082
