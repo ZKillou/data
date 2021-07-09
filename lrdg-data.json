@@ -56,11 +56,25 @@
         "fileDuration": 243.382857
     },
     {
+        "name": "BIG CHUNGUS - Main Theme",
+        "fileName": "BIG CHUNGUS - Main Theme.mp3",
+        "isBest": false,
+        "pic": "https://cdn.discordapp.com/attachments/505784854017736705/863000086790930432/Big_Chungus.png",
+        "fileDuration": 111.438367
+    },
+    {
         "name": "Black Clover - Opening 13 (Grandeur)",
         "fileName": "Black Clover - Opening 13 (Grandeur).mp3",
         "isBest": false,
         "pic": "https://cdn.discordapp.com/attachments/505784854017736705/840195917767245834/BLACK_CLOVER.png",
         "fileDuration": 88.32
+    },
+    {
+        "name": "Boom Beach - Fem Talk",
+        "fileName": "Boom Beach - Fem Talk.mp3",
+        "isBest": false,
+        "pic": "https://cdn.discordapp.com/attachments/505784854017736705/863000086548316170/Boom_Beach.png",
+        "fileDuration": 55.013878
     },
     {
         "name": "Danganronpa 2 Goodbye Despair - Ms. Monomi's Practice Lesson",
@@ -510,6 +524,13 @@
         "isBest": false,
         "pic": "https://cdn.discordapp.com/attachments/505784854017736705/829423022918205440/KSCNMD.png",
         "fileDuration": 89.103673
+    },
+    {
+        "name": "Kobayashi san Chi no Maid Dragon S - Opening",
+        "fileName": "Kobayashi san Chi no Maid Dragon S - Opening.mp3",
+        "isBest": false,
+        "pic": "https://cdn.discordapp.com/attachments/505784854017736705/829423022918205440/KSCNMD.png",
+        "fileDuration": 90.174694
     },
     {
         "name": "Mamorukun Curse! - YO-KAI Disco (Meikai Arranged Version)",
@@ -1280,6 +1301,13 @@
         "isBest": false,
         "pic": "https://cdn.discordapp.com/attachments/505784854017736705/829423860406681610/Roblox.png",
         "fileDuration": 213.211429
+    },
+    {
+        "name": "Scarlet Nexus - District Mission",
+        "fileName": "Scarlet Nexus - District Mission.mp3",
+        "isBest": false,
+        "pic": "https://cdn.discordapp.com/attachments/505784854017736705/859477692369731604/Scarlet_Nexus.png",
+        "fileDuration": 203.964082
     },
     {
         "name": "Scarlet Nexus - Opening",
