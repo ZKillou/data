@@ -196,6 +196,13 @@
         "fileDuration": 175.751837
     },
     {
+        "name": "Doki Doki Literature Club Plus! - My Song, Your Note",
+        "fileName": "Doki Doki Literature Club Plus! - My Song, Your Note.mp3",
+        "isBest": false,
+        "pic": "https://cdn.discordapp.com/attachments/505784854017736705/829417980797911130/DDLC.png",
+        "fileDuration": 162.742857
+    },
+    {
         "name": "Doki Doki Literature Club Plus! - Write the Way Into Your Heart",
         "fileName": "Doki Doki Literature Club Plus! - Write the Way Into Your Heart.mp3",
         "isBest": false,
@@ -460,6 +467,13 @@
         "isBest": false,
         "pic": "https://cdn.discordapp.com/attachments/505784854017736705/829423021588611092/Geometry_Dash.png",
         "fileDuration": 198.217143
+    },
+    {
+        "name": "Happy Wheels - Main Menu",
+        "fileName": "Happy Wheels - Main Menu.mp3",
+        "isBest": false,
+        "pic": "https://cdn.discordapp.com/attachments/505784854017736705/863366409145024531/Happy_Wheels.png",
+        "fileDuration": 120.32
     },
     {
         "name": "Ijiranaide, Nagatoro-san - Ending",
@@ -1609,6 +1623,13 @@
         "isBest": true,
         "pic": "https://cdn.discordapp.com/attachments/505784854017736705/829423860633698374/SMG.png",
         "fileDuration": 238.158367
+    },
+    {
+        "name": "Super Mario Maker 2 - Title Theme",
+        "fileName": "Super Mario Maker 2 - Title Theme.mp3",
+        "isBest": false,
+        "pic": "https://cdn.discordapp.com/attachments/505784854017736705/863366409417523220/SMM2.png",
+        "fileDuration": 119.170612
     },
     {
         "name": "Super Mario Odyssey - New Donk City Daytime",
