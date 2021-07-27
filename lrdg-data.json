@@ -42,6 +42,20 @@
         "fileDuration": 75.598367
     },
     {
+        "name": "Apollo Justice Ace Attorney - Cross Examination ~ Moderate 2007",
+        "fileName": "Apollo Justice Ace Attorney - Cross Examination ~ Moderate 2007.mp3",
+        "isBest": false,
+        "pic": "https://media.discordapp.net/attachments/505784854017736705/869644529530208296/AJAA.png",
+        "fileDuration": 80.378776
+    },
+    {
+        "name": "Apollo Justice Ace Attorney - Investigation ~ Opening 2007",
+        "fileName": "Apollo Justice Ace Attorney - Investigation ~ Opening 2007.mp3",
+        "isBest": false,
+        "pic": "https://media.discordapp.net/attachments/505784854017736705/869644529530208296/AJAA.png",
+        "fileDuration": 89.286531
+    },
+    {
         "name": "Bee Swarm Simulator - Main Theme",
         "fileName": "Bee Swarm Simulator - Main Theme.mp3",
         "isBest": false,
@@ -981,6 +995,20 @@
         "fileDuration": 110.706939
     },
     {
+        "name": "Phoenix Wright Ace Attorney Trials and Tribulations OST - Questioning ~ Allegro 2004",
+        "fileName": "Phoenix Wright Ace Attorney Trials and Tribulations OST - Questioning ~ Allegro 2004.mp3",
+        "isBest": false,
+        "pic": "https://media.discordapp.net/attachments/505784854017736705/869644529714749440/PWAA_TAT.png",
+        "fileDuration": 165.093878
+    },
+    {
+        "name": "Phoenix Wright Ace Attorney Trilogy - Title Theme",
+        "fileName": "Phoenix Wright Ace Attorney Trilogy - Title Theme.mp3",
+        "isBest": false,
+        "pic": "https://media.discordapp.net/attachments/505784854017736705/869644529924440104/PWAA_Trilogy.png",
+        "fileDuration": 223.059592
+    },
+    {
         "name": "Pokémon - Always been a friend Bidoof",
         "fileName": "Pokémon - Always been a friend Bidoof.mp3",
         "isBest": false,
@@ -1343,6 +1371,13 @@
         "isBest": false,
         "pic": "https://cdn.discordapp.com/attachments/505784854017736705/859477692369731604/Scarlet_Nexus.png",
         "fileDuration": 90.331429
+    },
+    {
+        "name": "Sonic & All-Stars Racing Transformed - Burning Depths",
+        "fileName": "Sonic & All-Stars Racing Transformed - Burning Depths.mp3",
+        "isBest": false,
+        "pic": "https://media.discordapp.net/attachments/505784854017736705/869644529249169508/Sonic_AS_Racing_Transformed.png",
+        "fileDuration": 339.40898
     },
     {
         "name": "Sonic Adventure 2 - Battle Chao Garden Theme",
