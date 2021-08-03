@@ -518,6 +518,13 @@
         "fileDuration": 285.126531
     },
     {
+        "name": "Jet Grind Radio - Miller Ball Breakers",
+        "fileName": "Jet Grind Radio - Miller Ball Breakers.mp3",
+        "isBest": false,
+        "pic": "https://cdn.discordapp.com/attachments/505784854017736705/872175347402158100/Jet_Set_Radio.png",
+        "fileDuration": 333.662041
+    },
+    {
         "name": "JoJo's Bizarre Adventure - il vento d'oro",
         "fileName": "JoJo's Bizarre Adventure - il vento d'oro.mp3",
         "isBest": true,
@@ -1231,6 +1238,20 @@
         "isBest": false,
         "pic": "https://cdn.discordapp.com/attachments/505784854017736705/829423467568169011/Pokemon_SL.png",
         "fileDuration": 249.129796
+    },
+    {
+        "name": "Pokémon UNITE - Choose Team",
+        "fileName": "Pokémon UNITE - Choose Team.mp3",
+        "isBest": false,
+        "pic": "https://cdn.discordapp.com/attachments/505784854017736705/872175347121147955/Pokemon_Unite.png",
+        "fileDuration": 58.853878
+    },
+    {
+        "name": "Pokémon UNITE - Main Theme",
+        "fileName": "Pokémon UNITE - Main Theme.mp3",
+        "isBest": false,
+        "pic": "https://cdn.discordapp.com/attachments/505784854017736705/872175347121147955/Pokemon_Unite.png",
+        "fileDuration": 61.857959
     },
     {
         "name": "Pokémon x Super Smash Bros Melee - Pokemon Stadium",
