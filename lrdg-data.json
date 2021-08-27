@@ -1,5 +1,12 @@
 [
     {
+        "name": "A Certain Scientific Accelerator - Opening",
+        "fileName": "A Certain Scientific Accelerator - Opening.mp3",
+        "isBest": false,
+        "pic": "https://media.discordapp.net/attachments/505784854017736705/880827061160251392/asca.png",
+        "fileDuration": 86.448
+    },
+    {
         "name": "American Truck Simulator - Menu 1",
         "fileName": "American Truck Simulator - Menu 1.mp3",
         "isBest": false,
@@ -881,6 +888,13 @@
         "isBest": true,
         "pic": "https://cdn.discordapp.com/attachments/505784854017736705/829423397296406599/P3.png",
         "fileDuration": 210.102857
+    },
+    {
+        "name": "Persona 4 - Heaven",
+        "fileName": "Persona 4 - Heaven.mp3",
+        "isBest": false,
+        "pic": "https://cdn.discordapp.com/attachments/505784854017736705/831865229319208980/P4.png",
+        "fileDuration": 179.904
     },
     {
         "name": "Persona 4 - Specialist",
